@@ -13,11 +13,11 @@
   git clone https://github.com/tucommenceapousser/sms-sender.git
   cd sms-sender
   pip install -r requirements.txt
-  python sms-sender.py
+  python launch.py
   ```
   You can do it all in one command.
   ```
-  git clone https://github.com/mfr-fr/sms-sender.git && cd sms-sender && pip install -r requirements.txt && python sms-sender.py
+  git clone https://github.com/tucommenceapousser/sms-sender.git && cd sms-sender && pip install -r requirements.txt && python launch.py
   ```
 
 - Windows 
@@ -60,5 +60,5 @@
 <br><br>
 
 ## <h2><p align="center">✏️Author✏️</p></h2>
-* **MFR** - [Github](https://github.com/mfr-fr)
+* **trhacknon** - [Github](https://github.com/tucommenceapousser)
 
