@@ -1,4 +1,4 @@
-# dev by mfr
+# dev by trhacknon
 from datetime import datetime 
 from pystyle import *
 import requests
@@ -14,8 +14,8 @@ green = Col.light_green
 purple = Col.light_blue
 red = Col.light_red
 
-os.system('Title  Sms-sender ║ BY MFR')
-banner = " ___ _ __ ___  ___  \n/ __| '_ ` _ \/ __| \n\__ \ | | | | \__ \ \n|___/_| |_| |_|___/ _\n ___  ___ _ __   __| | ___ _ __ \n/ __|/ _ \ '_ \ / _` |/ _ \ '__|\n\__ \  __/ | | | (_| |  __/ |   \n|___/\___|_| |_|\__,_|\___|_|    \n╔═════════════════════════════════╗\n║ Copyright by mfr                ║\n║ https://github.com/mfr-fr       ║\n╚═════════════════════════════════╝"
+os.system('Title  Sms-sender ║ BY Trhacknon')
+banner = " ___ _ __ ___  ___  \n/ __| '_ ` _ \/ __| \n\__ \ | | | | \__ \ \n|___/_| |_| |_|___/ _\n ___  ___ _ __   __| | ___ _ __ \n/ __|/ _ \ '_ \ / _` |/ _ \ '__|\n\__ \  __/ | | | (_| |  __/ |   \n|___/\___|_| |_|\__,_|\___|_|    \n╔═════════════════════════════════╗\n║ Copyright by trhacknon          ║\n║ github.com/tucommenceapousser   ║\n╚═════════════════════════════════╝"
 
 def token():
   os.system('cls' if os.name == 'nt' else 'clear')
@@ -245,7 +245,7 @@ def main():
    main()
 
 os.system('cls' if os.name == 'nt' else 'clear')
-print("╔═════════════════════════════════╗\n║ Copyright by mfr                ║\n║ https://github.com/mfr-fr       ║\n╚═════════════════════════════════╝")
+print("╔═════════════════════════════════╗\n║ Copyright by trhacknon          ║\n║ github.com/tucommenceapousser   ║\n╚═════════════════════════════════╝")
 time.sleep(2)
 os.system('cls' if os.name == 'nt' else 'clear')
 main()
